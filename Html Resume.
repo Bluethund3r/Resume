@@ -1,5 +1,5 @@
 <html>
-<header>
+<head>
 
 <title> Tyler H. Resume </title>
 
@@ -16,10 +16,10 @@
 </div>
 <div style="padding 20px;">
 <h3><ul>Certifications</h3>
-<li>OSHA 10
-<li>Certificate in Electrical Technology-Bunker Hill Community College
-<li>Micropython award (adafruit)
-<li>De-escalation Embassador
+<li>OSHA 10</li>
+<li>Certificate in Electrical Technology-Bunker Hill Community College</li>
+<li>Micropython award (adafruit)</li>
+<li>De-escalation Embassador</li>
 </ul>
 </div>
 <h2> Work Experience </h2>
