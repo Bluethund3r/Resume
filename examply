@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tyler H. — Resume</title>
+  <style>
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+      margin: 20px;
+      color: #222;
+    }
+    header { text-align: center; padding: 16px 0; }
+    h1 { color: goldenrod; margin: 0; }
+    .contact { margin-top: 8px; font-weight: 600; }
+    .container { max-width: 860px; margin: 0 auto; }
+    section { margin: 18px 0; }
+    h2 { border-bottom: 2px solid #eee; padding-bottom: 6px; }
+    ul { margin: 8px 0 8px 20px; }
+    .meta { font-style: italic; color: #555; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Tyler H.</h1>
+      <div class="contact">
+        <a href="mailto:tyles435@gmail.com">tyles435@gmail.com</a> | 857-308-7688 | Boston, MA
+      </div>
+    </header>
+
+    <section aria-labelledby="certifications">
+      <h2 id="certifications">Certifications</h2>
+      <ul>
+        <li>OSHA 10</li>
+        <li>Certificate in Electrical Technology — Bunker Hill Community College</li>
+        <li>Micropython award (Adafruit)</li>
+        <li>De-escalation Ambassador</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="work">
+      <h2 id="work">Work Experience</h2>
+
+      <article>
+        <h3>Decontamination Technician</h3>
+        <p class="meta">2018 — Present</p>
+        <ul>
+          <li>Handle hazardous materials pertaining to medical and biohazardous waste.</li>
+          <li>Conduct routine inspections for functionality and cleanliness of equipment.</li>
+          <li>Maintain detailed records of sterilization and regulatory compliance.</li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>Pharmacy Technician (Internship)</h3>
+        <p class="meta">March 2024 — July 2024</p>
+        <ul>
+          <li>Processed and prepared 130+ prescriptions daily.</li>
+          <li>Ensured regulatory compliance while assisting pharmacists in dispensing medications.</li>
+          <li>Delivered customer service to patients, addressing inquiries and issues promptly.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section aria-labelledby="tech">
+      <h2 id="tech">Technical Expertise</h2>
+      <ul>
+        <li>Wiring electrical systems for troubleshooting (including low-voltage systems).</li>
+        <li>In-depth knowledge of infection control standards and healthcare regulatory protocols.</li>
+        <li>Strong customer service skills.</li>
+        <li>Project management — detail-oriented and able to handle multiple projects efficiently.</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
